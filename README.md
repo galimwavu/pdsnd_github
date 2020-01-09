@@ -2,7 +2,7 @@
 9th January 2020
 
 ### Project Title
-#Bikeshare project#
+Bikeshare project
 
 ### Description
 
@@ -12,8 +12,8 @@ This project unveils the *bicycle usage pattern*, it compares the usage pattern 
 ### Files used
 
 *chicago.csv*
-*New York*
-*Washington*
+*New York.csv*
+*Washington.csv*
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
