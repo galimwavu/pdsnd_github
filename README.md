@@ -17,6 +17,6 @@ This project unveils the *bicycle usage pattern*, it compares the usage pattern 
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-Credit goes to [Udacity travel plans repo](https://github.com/udacity/course-collaboration-travel-plans) and [version control best practices](https://www.git-tower.com/blog/version-control-best-practices/)
+Credit goes to [Udacity travel plans repo](https://github.com/udacity/course-collaboration-travel-plans), [version control best practices](https://www.git-tower.com/blog/version-control-best-practices/) and [motivate](https://www.motivateco.com/) for the data provided that was used in the project
 
 
