@@ -205,7 +205,7 @@ def main():
             print(df.iloc[count:(5+count)])
             count += 5
             raw_data_response = input('\n Would you like to view the next 5 rows of raw data? Enter yes or no.')
-            raw_data_response = raw_data_response.lower()
+            #raw_data_response = raw_data_response.lower()
         
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
