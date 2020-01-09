@@ -199,12 +199,12 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
 
-        raw_data_response = input('\n Would you like to view raw data? Enter yes or no.\n')
+        raw_data_response = input('\n Would you like to view raw data? Enter yes or no.')
         count = 0
         while raw_data_response.lower() == 'yes':
             print(df.iloc[count:(5+count)])
             count += 5
-            raw_data_response = input('\n Would you like to view the next 5 rows of raw data? Enter yes or no.\n')
+            raw_data_response = input('\n Would you like to view the next 5 rows of raw data? Enter yes or no.')
             raw_data_response = raw_data_response.lower()
         
         restart = input('\nWould you like to restart? Enter yes or no.\n')
